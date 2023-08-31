@@ -1,0 +1,3 @@
+/Users/harrietobrien/CLionProjects/rhOS/cmake-build-debug/CMakeFiles/rhOS.dir
+/Users/harrietobrien/CLionProjects/rhOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrietobrien/CLionProjects/rhOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
